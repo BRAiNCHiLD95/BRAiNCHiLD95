@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ---
 ### Some Stats
-... because I absolutely love this plugin made by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+... because I absolutely love this plugin made by [anuraghazra](https://github.com/anuraghazra/github-readme-stats) (I wish it could pull stats from private repos because that's where 90% of my daily activity is)
 
 ![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRAiNCHiLD95&hide=contribs&count_private=true&show_icons=true&theme=blue-green&hide_border=true&border_radius=25 "My GitHub Stats") ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRAiNCHiLD95&layout=compact&count_private=true&theme=blue-green&hide_border=true&border_radius=25 "My Top Languages")
