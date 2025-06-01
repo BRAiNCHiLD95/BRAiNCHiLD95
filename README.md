@@ -1,6 +1,6 @@
 ### Hi folks, my name is Brian Sam Thomas! 👋
 
-I’m currently a Senior Software Engineer at Pet24-7 Global Limited - working across multiple verticals building services and platforms to bring affordable and accessible veterinary care to everyone around the globe. Some of these include -
+I’m currently a Senior Software Engineer (AI & Cloud) at Pet24-7 Global Limited - working across multiple verticals building services and platforms to bring affordable and accessible veterinary care to everyone around the globe. Some of these include -
 
 For the core (Vidtu):
 - A React SPA with a Laravel backend - the main bespoke application.
@@ -11,7 +11,7 @@ For the core (Vidtu):
 for the other verticals (Pet/Equivet/Vet 24-7):
 - A Next.js based application for 3 verticals (with common business logic, but extended for differing use-cases).
 - An AI Assistant within the platform to assist with bookings, follow-ups, as well as general queries.
-- An RAG bot - deeply integrated with all verticals, as well as it's own app - for 24-7 support/access.
+- An RAG based chatbot (VetAssist) - deeply integrated with all verticals, as well as it's own app - for 24-7 support/access.
 
 <!--
 **BRAiNCHiLD95/BRAiNCHiLD95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
